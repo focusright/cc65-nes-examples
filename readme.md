@@ -1,3 +1,8 @@
+Revised for cc65 2.17 on MacOS 10.15.3, including includes and binaries
+Just run ./compile.sh
+
+---
+
 Note: These examples are from [Shiru's NES programming tutorial](http://shiru.untergrund.net/articles/programming_nes_games_in_c.htm); I merely wrote a minimal Makefile so I could mess around on Mac OS X. The original readme follows.
 
 ---
